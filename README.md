@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### 🌟 Express Myself
 <a href="https://github.com/ShinEunbyeol" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://estrella13.tistory.com/" target="_blank"><img alt="GitHub Sponsors" src ="https://img.shields.io/badge/Blog-EA4AAA.svg?&style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/></a>
+<a href="https://estrella13.tistory.com/" target="_blank"><img alt="Blog" src ="https://img.shields.io/badge/Blog-EA4AAA.svg?&style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/></a>
+<a href="mailto:silverbyeol97@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=silverbyeol97@gmail.com"/></a>
 
 <br>
 Hello, I'm Eunbyeol Shin
