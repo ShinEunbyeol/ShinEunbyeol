@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </h2>
 
 ### 🌟 Express Myself
-<a href="https://estrella13.tistory.com/" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://github.com/ShinEunbyeol" target="_blank"><img alt="GitHub Sponsors" src ="https://img.shields.io/badge/Blog-EA4AAA.svg?&style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/></a>
+<a href="https://github.com/ShinEunbyeol" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://estrella13.tistory.com/" target="_blank"><img alt="GitHub Sponsors" src ="https://img.shields.io/badge/Blog-EA4AAA.svg?&style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/></a>
 
 <br>
 Hello, I'm Eunbyeol Shin
