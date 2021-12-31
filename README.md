@@ -42,7 +42,8 @@ I started using github or write tech blog late, so I working hard to organizing 
 <a><img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 <a><img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/></a>
 <br>
-* IDE that I typed in "Hello World" : Eclipse 4.12<br>
+* IDE that I typed in "Hello World" : Visual Studio Code 1.63.2<br>
+　　　　　　　　　　　　　　　Eclipse 4.12<br>
 　　　　　　　　　　　　　　　Atom 1.41.0<br>
-　　　　　　　　　　　　　　　Visual Studio Code 1.63.2
+　　　　　　　　　　　　　　　EditPlus 5.2.2386
 * GUI guide program that I used for development : Zeplin
