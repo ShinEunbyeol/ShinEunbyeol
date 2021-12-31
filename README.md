@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Hello, I'm Eunbyeol Shin
 <br><br>
 I'm studying web development. Also git and english language too😊.<br>
-ven if It's slow, but I doing my best.
+Even if It's slow, but I doing my best.
 <br><br>
 I started using github or write tech blog late, so I working hard to organizing the every knowledge that recorded in other place so far
 
