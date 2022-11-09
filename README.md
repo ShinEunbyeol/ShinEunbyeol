@@ -34,6 +34,8 @@ I started using github or write tech blog late, so I working hard to organizing 
 
 ### ✨ Skills
 <a><img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/></a>
+<a><img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white"/></a>
+<a><img alt="CodeIgniter" src ="https://img.shields.io/badge/CodeIgniter-EF4223.svg?&style=for-the-badge&logo=CodeIgniter&logoColor=white"/></a>
 <a><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <a><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <a><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/></a>
@@ -41,6 +43,8 @@ I started using github or write tech blog late, so I working hard to organizing 
 <a><img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/></a>
 <a><img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 <a><img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/></a>
+<a><img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/></a>
+<a><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <br>
 * IDE that I typed in "Hello World" : Visual Studio Code 1.63.2<br>
 　　　　　　　　　　　　　　　Eclipse 4.12<br>
